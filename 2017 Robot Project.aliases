@@ -1,6 +1,6 @@
 [My Computer]
-My Computer = "192.168.0.101"
+My Computer = "192.168.29.144"
 
 [Robot]
-Robot = "roboRIO-2344-FRC.local"
+Robot = "172.22.11.2"
 
